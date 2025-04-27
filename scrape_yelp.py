@@ -4,8 +4,6 @@ import time
 
 # STEP 1: Your Yelp API Key
 API_KEY = "YOUR_YELP_API_KEY"  # Replace with your key
-API_KEY = "i_NdUM3E9W65y17y4eStAa9aIApKxC79vT3IR4f2njme7J2uIj5skUhEadwblzrFdmEXCGL9OtsoDc-nvFV21nlJ9tDpEXdbqE3n3AML_-iFCgYs4YZ7vGjC0ur_Z3Yx"
-
 yelp_api = YelpAPI(API_KEY)
 location = "Fremont, CA"
 limit = 50
